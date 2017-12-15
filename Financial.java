@@ -127,8 +127,8 @@ class Financial
 				
 					case 7:
 						break;
-				
 				}
+					break;
 				
 				case 4:
 					System.out.println("Net Operating Cash Flow:");
